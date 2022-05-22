@@ -23,8 +23,6 @@
 #### Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkktim&show_icons=true&theme=vue)
 
-#### Github hits
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbyul&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **kkktim/kkktim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
