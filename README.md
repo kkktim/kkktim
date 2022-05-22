@@ -1,7 +1,6 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=450&section=header&text=Hi🙋&desc=github.com/Yukyung0622%20)
 
-## Kim Yu Kyung 👩‍💻
+## Kang Tae Ho 👩‍💻
 
 
 ### 📩Email 
