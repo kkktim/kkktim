@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Kang Tae Ho 👩‍💻
 
 
